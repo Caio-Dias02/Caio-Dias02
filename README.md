@@ -1,7 +1,8 @@
 ### I'm Caio! welcome to my profile  
 
--💻 I’m Web Developer
-- 📝 I’m learning React/TypeScript
+💻 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
+
+📝 𝖨’𝗆 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖱𝖾𝖺𝖼𝗍/𝖳𝗒𝗉𝖾𝖲𝖼𝗋𝗂𝗉𝗍
 
 
 <div align="center">
