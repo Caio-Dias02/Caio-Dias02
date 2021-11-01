@@ -28,5 +28,5 @@
   
   ##
   
-  <div>
-    
+
+![Snake animation](https://github.com/Caio-Dias02/Caio-Dias02/blob/output/github-contribution-grid-snake.svg)    
