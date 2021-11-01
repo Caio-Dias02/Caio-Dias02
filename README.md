@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Caio-Dias02&label=Profile%20views&color=0e75b6&style=flat" alt="Caio-Dias02" /> </p>
 
 ### I'm Caio! welcome to my profile  
 
@@ -5,8 +6,6 @@
 
 📝 𝖨’𝗆 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖱𝖾𝖺𝖼𝗍/PHP
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Caio-Dias02&label=Profile%20views&color=0e75b6&style=flat" alt="Caio-Dias02" /> </p>
 
 
 <div align="center">
