@@ -4,7 +4,7 @@
 
 💻 𝖨'𝗆 𝖥ull-stack 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
 
-📝 𝖨’𝗆 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖱𝖾𝖺𝖼𝗍/PHP
+📝 𝖨’𝗆 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Python/PHP
 
 
 
@@ -24,6 +24,7 @@
   <img align="center" alt="Caio-PHP" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Caio-Mysql" height="30" width="80" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Caio-React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="Caio-Python" height="30" width="90" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB">
     <img align="right" alt="Anime-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/f603ff6ede21f639cdb2e69d43e02973/181f8c2ca06784d9-ac/s540x810/1eb6df02c02a173e931964b237ac9ac44469f865.jpg">
 </div>
   
