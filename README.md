@@ -4,7 +4,8 @@
 
 💻 𝖨'𝗆 𝖥ull-stack 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
 
-📝 𝖨’𝗆 𝗅𝖾𝖺𝗋𝗇𝗂𝗇g PHP
+📝 𝖨’𝗆 improving in PHP, JS
+😎 Soon React-js
 
 <div align="center">
   <a href="https://github.com/Caio-Dias02">
