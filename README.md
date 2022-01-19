@@ -4,7 +4,7 @@
 
 💻 𝖨'𝗆 𝖥ull-stack 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
 
-📝 𝖨’𝗆 improving in PHP, JSs
+📝 𝖨’𝗆 improving in PHP, JS
 😎 Soon React-js 
 
 <div align="center">
