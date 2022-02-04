@@ -2,7 +2,7 @@
 
 ### I'm Caio! welcome to my profile  
 
-💻 𝖨'𝗆 𝖥ull-stack 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
+💻 𝖨'𝗆 𝖥ull-stack 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋i
 
 📝 𝖨’𝗆 learning to work using Laravel
 😎 Soon React-js 
