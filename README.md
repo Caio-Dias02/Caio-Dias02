@@ -4,9 +4,6 @@
 
 💻 𝖨'𝗆 𝖥ull-stack 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
 
-📝 𝖨’𝗆 learning to work using Laravel
-😎 Soon React-js 
-
 <div align="center">
   <a href="https://github.com/Caio-Dias02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Dias02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
