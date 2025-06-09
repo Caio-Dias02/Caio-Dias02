@@ -1,21 +1,42 @@
-# Desenvolvedor Back end
+# 👋 Olá! Eu sou Caio Dias
 
-Olá! Bem-vindo ao meu perfil! Sou um desenvolvedor de aplicativos e full stack com experiência em diversas tecnologias e ferramentas. Abaixo você encontrará um resumo das minhas habilidades e áreas de expertise:
+Sou desenvolvedor **Back-end** apaixonado por tecnologia, com foco em construção de APIs robustas, escaláveis e seguras. Tenho experiência com diversas ferramentas modernas e estou sempre buscando aprender mais e enfrentar novos desafios.
 
-## Tecnologias Principais
+---
 
-- ![Node]([https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white](https://img.shields.io/badge/node-02569B?style=flat&logo=node&logoColor=white)) ![Nestjs](https://img.shields.io/badge/nestjs-02569B?style=flat&logo=nestjs&logoColor=red)
-- ![Postgresql](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/Postgresql-47A248?style=flat&logo=Postgresql&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![MaterializeCSS](https://img.shields.io/badge/MaterializeCSS-0081CB?style=flat&logo=materialize-css&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+## 🚀 Tecnologias que uso no dia a dia
 
-## Experiência em Back-end
+### ⚙️ Back-end
 
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)  
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
 
+### 🗄️ Bancos de Dados
 
-## Contato
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 
-- *LinkedIn*: <https://www.linkedin.com/in/caio-dias-755494204/>
+### 💻 Front-end & Estilização
 
-Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades. Se você tem algum projeto interessante ou oportunidade de colaboração, não hesite em entrar em contato!
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![Materialize CSS](https://img.shields.io/badge/Materialize_CSS-EB5E55?style=flat&logo=materialize-css&logoColor=white)](https://materializecss.com/)
+
+---
+
+## 📈 Sobre mim
+
+- 🔭 Atualmente estou trabalhando em projetos pessoais e aprimorando minhas habilidades com **NestJS** e **React**
+- 🌱 Estudando mais sobre arquitetura de software, boas práticas e testes automatizados
+- 🎯 Buscando oportunidades como desenvolvedor Back-end em projetos desafiadores
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dias-755494204/)
+
+---
+
+⭐ Se gostou do meu perfil ou projetos, sinta-se à vontade para me seguir aqui no GitHub!
