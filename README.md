@@ -34,7 +34,7 @@ Sou desenvolvedor **Back-end** apaixonado por tecnologia, com foco em construç�
 
 ## 📈 Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos pessoais e freelance com foco em APIs e aplicações web  
+- 🔭 Atualmente trabalhando em projetos pessoais com foco em APIs e aplicações web  
 - 🌱 Estudando mais sobre arquitetura de software, testes automatizados e boas práticas com TypeScript e NestJS  
 - 🎯 Buscando oportunidades como desenvolvedor Back-end em ambientes desafiadores e colaborativos
 
