@@ -1,7 +1,7 @@
 # 👋 Olá! / Hi there! I'm Caio Dias
 
-Sou desenvolvedor **Back-end** apaixonado por tecnologia, focado em construir APIs robustas, escaláveis e seguras.  
-I am a **Back-end developer** passionate about technology, focused on building robust, scalable, and secure APIs.
+Sou um desenvolvedor apaixonado por tecnologia, focado em construir APIs robustas, escaláveis e seguras.  
+I am a developer passionate about technology, focused on building robust, scalable, and secure APIs.
 
 ---
 
