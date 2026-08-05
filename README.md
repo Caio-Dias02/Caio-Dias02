@@ -4,13 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=%5B+SISTEMA+%5D+Notifica%C3%A7%C3%A3o;Caio+Dias+%E2%80%94+Back-end+Developer;Node.js+%C2%B7+NestJS+%C2%B7+TypeScript+%C2%B7+Docker;Construindo+APIs+robustas+e+escal%C3%A1veis;ARISE." alt="Sistema"/>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/caio-dias-755494204/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0A0E27"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0A0E27"/>
 </a>
 <a href="mailto:SEU-EMAIL@exemplo.com">
-  <img src="https://img.shields.io/badge/EMAIL-0A0E27?style=for-the-badge&logo=gmail&logoColor=00D4FF&labelColor=0A0E27"/>
+  <img src="https://img.shields.io/badge/Email-1B3A8C?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Caio-Dias02&style=for-the-badge&color=00D4FF&label=JOGADORES+OBSERVANDO"/>
 
@@ -27,162 +27,110 @@
 
 ## ⚔️ JANELA DE STATUS
 
-<!-- STATUS:START -->
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║                [ JANELA DE STATUS ]                  ║
-║                                                      ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║   NOME             Caio Dias                         ║
-║   CLASSE           Back-end Developer                ║
-║   TÍTULO           Arquiteto de APIs                 ║
-║   RANK             ?                                 ║
-║   NÍVEL            ?                                 ║
-║                                                      ║
-║   EXP              ░░░░░░░░░░░░░░░░░░░░     0%       ║
-║                                                      ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║   REPOSITÓRIOS     —         ESTRELAS       —        ║
-║   CONTRIBUIÇÕES    —         ALIADOS        —        ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-      Aguardando primeira sincronização do Sistema...
+                  [ JANELA DE STATUS ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   NOME              Caio Dias
+   CLASSE            Back-end Developer
+   TÍTULO            Arquiteto de APIs
+   LOCALIZAÇÃO       Cordeirópolis · SP · BR
+
+   RANK              B
+   NÍVEL             24
+
+   EXP               ██████████████░░░░░░   70%
+
+─────────────────────────────────────────────────────
+
+   REPOSITÓRIOS      57
+   LINGUAGEM         TypeScript
+   ESPECIALIDADE     APIs REST · NestJS
+   STATUS            Aberto a oportunidades
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-<!-- STATUS:END -->
 
 ---
 
 ## 🧬 ATRIBUTOS
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```
-FORÇA          ████████████████░░░░   Back-end
-AGILIDADE      ███████████░░░░░░░░░   Front-end
-INTELIGÊNCIA   █████████████░░░░░░░   Arquitetura
-VITALIDADE     ████████████░░░░░░░░   DevOps
-PERCEPÇÃO      ██████████████░░░░░░   Debugging
-```
+FORÇA           ████████████████░░░░    Back-end
+AGILIDADE       ███████████░░░░░░░░░    Front-end
+INTELIGÊNCIA    █████████████░░░░░░░    Arquitetura
+VITALIDADE      ████████████░░░░░░░░    DevOps
+PERCEPÇÃO       ██████████████░░░░░░    Debugging
 
-</td>
-<td width="45%" valign="top">
-
-```
-PONTOS DISPONÍVEIS ....... 3
-
-Alocando em:
+PONTOS DISPONÍVEIS ......... 3
   › Testes Automatizados
   › Design Patterns
   › CI/CD
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🗡️ ARSENAL
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div align="center">
 
-**⚔️ ARMA PRIMÁRIA** — Back-end
+**⚔️ ARMA PRIMÁRIA — Back-end**
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-0A0E27?style=flat-square&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/NestJS-0A0E27?style=flat-square&logo=nestjs&logoColor=E0234E"/>
-<img src="https://img.shields.io/badge/TypeScript-0A0E27?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/PHP-0A0E27?style=flat-square&logo=php&logoColor=777BB4"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-  </td>
-    <td valign="top" width="50%">
+**🛡️ ARMA SECUNDÁRIA — Front-end**
 
-**🛡️ ARMA SECUNDÁRIA** — Front-end
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/React-0A0E27?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-0A0E27?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-0A0E27?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0A0E27?style=flat-square&logo=css3&logoColor=1572B6"/>
-</p>
+**💎 ARTEFATOS — Banco de Dados**
 
-  </td>
-  </tr>
-  <tr>
-    <td valign="top">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**💎 ARTEFATOS** — Banco de Dados
+**📿 HABILIDADES — Ferramentas & DevOps**
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-0A0E27?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-0A0E27?style=flat-square&logo=mysql&logoColor=4479A1"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-  </td>
-    <td valign="top">
-
-**📿 HABILIDADES** — Ferramentas & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Docker-0A0E27?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Git-0A0E27?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0A0E27?style=flat-square&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Postman-0A0E27?style=flat-square&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/WordPress-0A0E27?style=flat-square&logo=wordpress&logoColor=21759B"/>
-</p>
-
-  </td>
-  </tr>
-</table>
-
----
-
-## 🌀 PORTAL DO DIA
-
-> Um portal se abriu. O Sistema o classificou automaticamente.
-> Atualizado diariamente via [Jikan API](https://jikan.moe) — o rank deriva da nota no MyAnimeList.
-
-<!-- GATE:START -->
-```
-┌──────────────────────────────────────────────────────┐
-│  PORTAL AINDA NÃO ESCANEADO                          │
-│  Rode o workflow "Sistema" para abrir o primeiro.    │
-└──────────────────────────────────────────────────────┘
-```
-<!-- GATE:END -->
+</div>
 
 ---
 
 ## 📜 MISSÕES
 
 ```
-╔══ CONCLUÍDAS ════════════════════════════════════════╗
+CONCLUÍDAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    [✔]  Dominar Node.js e o ecossistema JavaScript
    [✔]  Construir APIs REST em produção com NestJS
    [✔]  Containerizar aplicações com Docker
    [✔]  Modelar bancos relacionais (PostgreSQL / MySQL)
-╚══════════════════════════════════════════════════════╝
 
-╔══ EM ANDAMENTO ══════════════════════════════════════╗
+
+EM ANDAMENTO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    [▶]  Arquitetura de Software .............. 60%
    [▶]  Testes Automatizados ................. 50%
    [▶]  NestJS Avançado ...................... 80%
    [▶]  CI/CD e Observabilidade .............. 55%
-╚══════════════════════════════════════════════════════╝
 
-╔══ MISSÃO PRINCIPAL ══════════════════════════════════╗
+
+MISSÃO PRINCIPAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    [!]  Evoluir de Back-end para Full Stack
    [!]  Conquistar posição em time desafiador
-╚══════════════════════════════════════════════════════╝
 ```
 
 <details>
@@ -195,7 +143,7 @@ Alocando em:
 - 🔭 Currently working on personal and freelance projects focused on APIs and web applications
 - 🌱 Studying software architecture, automated testing and best practices with TypeScript and NestJS
 - 🎯 Looking for opportunities as a **Back-end Developer** in challenging and collaborative environments
-- ⚙️ This README updates itself daily through a GitHub Action consuming the Jikan and GitHub APIs
+- 📍 Based in Cordeirópolis, São Paulo, Brazil
 
 </details>
 
@@ -224,14 +172,10 @@ Alocando em:
 
 ### ⚡ *"Eu não sou mais o mais fraco."*
 
-Se algum projeto aqui te ajudou, deixa uma ⭐ — o Sistema conta como EXP.
+Se algum projeto aqui te ajudou, deixa uma ⭐
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1B3A8C,100:0A0E27&height=120&section=footer" width="100%"/>
 
 </div>
-
-<!-- SYNC:START -->
-<div align="center"><sub>Última sincronização do Sistema: nunca</sub></div>
-<!-- SYNC:END -->
