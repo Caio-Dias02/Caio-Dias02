@@ -12,12 +12,10 @@ Desenvolvedor Full Stack em Cordeirópolis, SP. Passo a maior parte do tempo no 
 
 **Projetos**
 
-| | |
-| :-- | :-- |
-| [**wagering-processor**](https://github.com/Caio-Dias02/wagering-processor) | Transações financeiras concorrentes, com idempotência, ledger imutável e outbox. `NestJS` `PostgreSQL` `SQS` |
-| [**fullstack-challenge**](https://github.com/Caio-Dias02/fullstack-challenge) | Tarefas colaborativas em microserviços, com notificações em tempo real. `NestJS` `RabbitMQ` `WebSocket` |
-| [**MuscleUp**](https://github.com/Caio-Dias02/MuscleUp) | Planos de treino e acompanhamento de progresso. `React` `NestJS` `Redis` |
-| [**Challenge-CellShop**](https://github.com/Caio-Dias02/Challenge-CellShop) | Checkout que trata estoque, falha do ERP e pedidos duplicados. `Express` `Zod` `Vitest` |
+- [**wagering-processor**](https://github.com/Caio-Dias02/wagering-processor) · transações financeiras concorrentes, com idempotência, ledger imutável e outbox<br>`NestJS` `PostgreSQL` `SQS`
+- [**fullstack-challenge**](https://github.com/Caio-Dias02/fullstack-challenge) · tarefas colaborativas em microserviços, com notificações em tempo real<br>`NestJS` `RabbitMQ` `WebSocket`
+- [**MuscleUp**](https://github.com/Caio-Dias02/MuscleUp) · planos de treino e acompanhamento de progresso<br>`React` `NestJS` `Redis`
+- [**Challenge-CellShop**](https://github.com/Caio-Dias02/Challenge-CellShop) · checkout que trata estoque, falha do ERP e pedidos duplicados<br>`Express` `Zod` `Vitest`
 
 <br>
 
